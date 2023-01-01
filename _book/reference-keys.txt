@@ -3,6 +3,7 @@ tab:nice-tab
 eq:binom
 thm:tri
 about
+test
 usage
 render-book
 preview-book
